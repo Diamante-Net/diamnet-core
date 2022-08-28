@@ -109,7 +109,7 @@ See [INSTALL-Windows.md](INSTALL-Windows.md)
 
 ## Basic Installation
 
-- `git clone https://github.com/diamnet/diamnet-core.git`
+- `git clone https://github.com/Diamante-Net/diamnet-core.git`
 - `cd diamnet-core`
 - `git submodule init`
 - `git submodule update`
@@ -136,7 +136,7 @@ Here are sample steps to achieve this:
     export CXX=clang++-10
     export CFLAGS="-O3 -g1 -fno-omit-frame-pointer"
     export CXXFLAGS="$CFLAGS -stdlib=libc++"
-    git clone https://github.com/diamnet/diamnet-core.git
+    git clone https://github.com/Diamante-Net/diamnet-core.git
     cd diamnet-core/
     ./autogen.sh && ./configure && make -j6
 
