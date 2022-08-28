@@ -1,5 +1,5 @@
 <div align="center">
-<a href="#"><img alt="Diamnet" src="https://avatars.githubusercontent.com/u/112297962?v=4" width="358" /></a>
+<a href="#"><img alt="Diamnet" src="https://avatars.githubusercontent.com/u/112297962?v=4" width="258" /></a>
 <br/>
 <strong>Creating equitable access to the global financial system</strong>
 <h1>Diamnet Core</h1>
