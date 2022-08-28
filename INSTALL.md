@@ -10,7 +10,7 @@ For a potentially quicker set up, the following projects could be good alternati
 
 ## Picking a version to run
 
-Best is to use the latest *stable* release that can be downloaded from https://github.com/diamnet/diamnet-core/releases
+Best is to use the latest *stable* release that can be downloaded from https://github.com/Diamante-Net/diamnet-core/releases
 
 
 Alternatively, branches are organized in the following way:
